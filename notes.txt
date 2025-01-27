@@ -1,0 +1,7 @@
+# Basic commands of git hub #
+1) git clone link -->To bring git respository into local system
+2) git status --> tells we have modified/changed/updated something or not
+3) git add name --> to add particular file (go to staged position)
+4) git add . --> used for all files
+6) git commit -m "some message" --> to commit all staged changes(saved in history)
+7) git push origin main --> to add local repo to github
