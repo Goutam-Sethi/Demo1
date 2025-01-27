@@ -4,4 +4,16 @@
 3) git add name --> to add particular file (go to staged position)
 4) git add . --> used for all files
 6) git commit -m "some message" --> to commit all staged changes(saved in history)
-7) git push origin main --> to add local repo to github
+7) git push -u(to set default) origin main --> to add local repo to github
+8) mkdir name(of local directory) --> to make a new local directory
+9) ls -a --> to get local files
+10) git init --> to change into git repo
+11) step to add local repo to github:
+    1) Make local repo on your github
+    2) git remote add origin <-link-> 
+    3) git remote -v --> to verify remote
+    4) git remote branch --> to verify branch
+    5) git branch  -M main --> to rename of branch
+12) git checkout <-new branch name-> --> to make another branch
+13) git checkout <-branch name-> --> to go to another branch
+14) git branch -d <-branch name-> --> to delee a branch 
